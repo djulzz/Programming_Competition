@@ -50,10 +50,17 @@ void RedirectCinToReadFromFileAndNotFromConsole()
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 int main(int argc, const char * argv[]) {
+    
+    // Note to Anthony: relevant part starts afer redirect
     RedirectCinToReadFromFileAndNotFromConsole();
-    std::string line;
-    std::cin >> line;
-    std::cout << "First Line From File is <" << line << ">" << std::endl;
+    
+    while( !std::cin.eof() ) {
+        std::string line;
+//        std::cin >> line;
+        std::getline(std::cin >> std::ws, line );
+        if( !line.empty() )
+            std::cout << "current from From File is <" << line << ">" << std::endl;
+    }
     return 0;
 }
 
