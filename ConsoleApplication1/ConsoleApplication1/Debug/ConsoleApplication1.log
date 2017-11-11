@@ -1,0 +1,154 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(201): error C2065: 'FLT_RADIX': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(201): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(201): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(201): note: see usage of 'FLT_RADIX'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1127): error C2065: 'FLT_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1127): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1127): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1127): note: see usage of 'FLT_MANT_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1128): error C2065: 'FLT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1128): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1128): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1128): note: see usage of 'FLT_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1130): error C2065: 'FLT_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1132): error C2065: 'FLT_MAX_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1132): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1132): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1132): note: see usage of 'FLT_MAX_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1133): error C2065: 'FLT_MAX_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1133): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1133): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1133): note: see usage of 'FLT_MAX_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1134): error C2065: 'FLT_MIN_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1134): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1134): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1134): note: see usage of 'FLT_MIN_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1135): error C2065: 'FLT_MIN_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1135): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1135): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1135): note: see usage of 'FLT_MIN_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1084): error C2065: 'FLT_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1089): error C2065: 'FLT_MAX': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1099): error C2065: 'FLT_EPSILON': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1109): error C2065: 'FLT_TRUE_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1190): error C2065: 'DBL_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1190): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1190): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1190): note: see usage of 'DBL_MANT_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1191): error C2065: 'DBL_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1191): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1191): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1191): note: see usage of 'DBL_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1193): error C2065: 'DBL_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1195): error C2065: 'DBL_MAX_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1195): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1195): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1195): note: see usage of 'DBL_MAX_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1196): error C2065: 'DBL_MAX_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1196): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1196): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1196): note: see usage of 'DBL_MAX_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1197): error C2065: 'DBL_MIN_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1197): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1197): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1197): note: see usage of 'DBL_MIN_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1198): error C2065: 'DBL_MIN_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1198): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1198): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1198): note: see usage of 'DBL_MIN_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1147): error C2065: 'DBL_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1152): error C2065: 'DBL_MAX': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1162): error C2065: 'DBL_EPSILON': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1172): error C2065: 'DBL_TRUE_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1253): error C2065: 'LDBL_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1253): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1253): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1253): note: see usage of 'LDBL_MANT_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1254): error C2065: 'LDBL_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1254): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1254): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1254): note: see usage of 'LDBL_DIG'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1256): error C2065: 'LDBL_MANT_DIG': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1258): error C2065: 'LDBL_MAX_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1258): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1258): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1258): note: see usage of 'LDBL_MAX_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1259): error C2065: 'LDBL_MAX_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1259): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1259): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1259): note: see usage of 'LDBL_MAX_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1260): error C2065: 'LDBL_MIN_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1260): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1260): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1260): note: see usage of 'LDBL_MIN_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1261): error C2065: 'LDBL_MIN_10_EXP': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1261): error C2131: expression did not evaluate to a constant
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1261): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1261): note: see usage of 'LDBL_MIN_10_EXP'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1210): error C2065: 'LDBL_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1215): error C2065: 'LDBL_MAX': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1225): error C2065: 'LDBL_EPSILON': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\limits(1235): error C2065: 'LDBL_TRUE_MIN': undeclared identifier
+c:\users\asearles\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2678: binary '>>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(475): note: could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(456): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(438): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(420): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(401): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(383): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(364): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(345): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(327): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(309): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(283): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(264): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(229): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(210): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(204): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(198): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(193): note: or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(1061): note: or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(1068): note: or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(1075): note: or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(1082): note: or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\istream(1092): note: or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::string&>(std::basic_istream<char,std::char_traits<char>> &&,_Ty)'
+          with
+          [
+              _Ty=std::string &
+          ]
+  c:\users\asearles\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): note: while trying to match the argument list '(std::istream, std::string)'
+c:\users\asearles\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'std::string' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(488): note: could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(468): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(448): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(428): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(408): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(388): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(368): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(348): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(328): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(308): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(283): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(263): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(229): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(209): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(203): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(197): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(192): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(684): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(731): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(769): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(816): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(942): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(949): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(956): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(963): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(973): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::string>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)'
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\include\ostream(1011): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\users\asearles\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): note: while trying to match the argument list '(std::ostream, std::string)'
