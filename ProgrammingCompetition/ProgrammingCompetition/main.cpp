@@ -13,6 +13,8 @@
 #include <iostream> // for cout, cin
 #include <string> // for std::string
 #include <fstream> // for std::fstream
+#include <vector>
+#include <list>
 
 #define FILENAME "Cupcakes.txt"
 
@@ -49,6 +51,46 @@ void RedirectCinToReadFromFileAndNotFromConsole()
 
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
+void example_vector_01()
+{
+    
+    std::cout << "Adding to a vector " << std::endl;
+    std::list< int > vector_int;
+    vector_int.push_back( 1 );
+    vector_int.push_back( 2 );
+    vector_int.push_back( 3 );
+    vector_int.push_back( 4 );
+    
+    std::cout << "size of vector = " << vector_int.size() << std::endl;
+    
+    std::cout << "accessing elements (no iterator needed)" << std::endl;
+}
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+void indexOf( void )
+{
+    std::list< int > list_int;
+    list_int.push_back( 1 );
+    list_int.push_back( 2 );
+    list_int.push_back( 3 );
+    list_int.push_back( 4 );
+    
+    int index = 0;
+    
+    for (auto it = list_int.begin(); it != list_int.end(); ++it, ++index) {
+        if( 4 == *it ) {
+            std::cout << "Found value at position " << index << std::endl;
+            break;
+        }
+    }
+    return;
+}
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
 int main(int argc, const char * argv[]) {
     
     // Note to Anthony: relevant part starts afer redirect
@@ -61,6 +103,10 @@ int main(int argc, const char * argv[]) {
         if( !line.empty() )
             std::cout << "current from From File is <" << line << ">" << std::endl;
     }
+    
+    example_vector_01();
+    
+    indexOf(  );
     return 0;
 }
 
