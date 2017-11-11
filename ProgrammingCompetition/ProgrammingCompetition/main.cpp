@@ -141,6 +141,13 @@ std::vector< int > ParseInts( void )
 
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
+void Cin_Example02( void )
+{
+    
+}
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
 int main(int argc, const char * argv[]) {
     
     // Note to White Supremacist: relevant part starts afer redirect
@@ -165,6 +172,13 @@ int main(int argc, const char * argv[]) {
         std::cout << theInts[ i ] << std::endl;
     }
     
+    std::cout << "Anthony - cout #1" << std::endl;
+    int num = 0;
+    std::string name;
+    std::cin >> num;
+    std::cin >> name;
+    std::cout << num << std::endl;
+    std::cout << name << std::endl;
     return 0;
 }
 
