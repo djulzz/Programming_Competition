@@ -15,6 +15,7 @@
 #include <fstream> // for std::fstream
 #include <vector>
 #include <list>
+#include <sstream>
 
 #define FILENAME "Cupcakes.txt"
 
@@ -102,20 +103,51 @@ template <typename T> void RemoveElementFromList( std::list< T >& list, const T&
     size = list.size();
     std::cout << "list size after = " << size  << std::endl;
 }
+
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-int main(int argc, const char * argv[]) {
-    
-    // Note to Anthony: relevant part starts afer redirect
-    RedirectCinToReadFromFileAndNotFromConsole();
-    
+void PlayingWithCin( void )
+{
     while( !std::cin.eof() ) {
         std::string line;
-//        std::cin >> line;
+        //        std::cin >> line;
         std::getline(std::cin >> std::ws, line );
         if( !line.empty() )
             std::cout << "current from From File is <" << line << ">" << std::endl;
     }
+    
+    return;
+}
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+std::vector< int > ParseInts( void )
+{
+    std::vector< int > numbers;
+    char separator = ' ';
+    
+    const char values[] = "10 10 90 30 75 30";
+    
+    std::istringstream f(values);
+    std::string s;
+    while (std::getline(f, s, separator )) {
+        int i = std::atoi( s.c_str() );
+        //std::cout << s << std::endl;
+        numbers.push_back(i);
+    }
+    
+    return numbers;
+}
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+int main(int argc, const char * argv[]) {
+    
+    // Note to White Supremacist: relevant part starts afer redirect
+    RedirectCinToReadFromFileAndNotFromConsole();
+    
+
+    PlayingWithCin(  );
     
     example_vector_01();
     
@@ -127,6 +159,12 @@ int main(int argc, const char * argv[]) {
     list_OfInts.push_back( 3 );
     
     RemoveElementFromList< int >( list_OfInts, 2 );
+    
+    std::vector< int > theInts = ParseInts(  );
+    for( int i = 0; i < theInts.size(); i++ ) {
+        std::cout << theInts[ i ] << std::endl;
+    }
+    
     return 0;
 }
 
