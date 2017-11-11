@@ -88,7 +88,20 @@ void indexOf( void )
 }
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-
+template <typename T> void RemoveElementFromList( std::list< T >& list, const T& value )
+{
+    size_t size = list.size();
+    std::cout << "list size before = " << size  << std::endl;
+    for( typename std::list<  T >::iterator it = list.begin(); it != list.end(); it++ ) {
+        if( *it == value ) {
+            std::cout << "Removing value " << value << std::endl;
+            list.remove( value );
+            break;
+        }
+    }
+    size = list.size();
+    std::cout << "list size after = " << size  << std::endl;
+}
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 int main(int argc, const char * argv[]) {
@@ -107,6 +120,13 @@ int main(int argc, const char * argv[]) {
     example_vector_01();
     
     indexOf(  );
+    
+    std::list< int > list_OfInts;
+    list_OfInts.push_back( 1 );
+    list_OfInts.push_back( 2 );
+    list_OfInts.push_back( 3 );
+    
+    RemoveElementFromList< int >( list_OfInts, 2 );
     return 0;
 }
 
