@@ -1,9 +1,10 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <iostream>
-
+#include <cstdlib>
+#include <string>
 int main()
 {
 	int num = 0;
@@ -15,7 +16,7 @@ int main()
 	std::cout << num << std::endl;
 	std::cout << name << std::endl;
 
-	system("PAUSE");
+	//system("PAUSE");
 
     return 0;
 }
